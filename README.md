@@ -1,4 +1,4 @@
-# challenge1
+# challenge 1
 First challenge
 
 
@@ -8,7 +8,5 @@ First challenge
 4. Code optimized for HTML5, adding <nav> and <article> tags
 5. Consolidated styles, reusing classes for text and image content
 
-Expected results at ./assets/images/01-html-css-git-homework-demo.png
-
-Live info: https://janimuhlestein.github.io/challenge1/#social-media-marketing
-Repository: https://github.com/janimuhlestein/challenge1
+Live info:  https://janimuhlestein.github.io/Horiseon/
+Repository: https://github.com/janimuhlestein/Horiseon
